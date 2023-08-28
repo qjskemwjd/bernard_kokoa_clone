@@ -27,8 +27,3 @@ body{
     padding: 0px var(--horizontal-space);
 }
 
-.status-bar{
-    position:fixed;
-    width:100%;
-    box-sizing:border-box;
-}
